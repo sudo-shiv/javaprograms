@@ -1,2 +1,2 @@
 # javaprograms
-javaprograms to lear
+javaprograms to learn
